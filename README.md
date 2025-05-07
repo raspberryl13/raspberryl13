@@ -14,7 +14,7 @@ Fun fact: My son’s my biggest inspiration—couldn’t ask for a better wingma
 
 ## Key Projects
 - **Coinbase BTC Trading Bot** ([github.com/raspberryl13/coinbase_btc_bot](https://github.com/raspberryl13/coinbase_btc_bot)): Conceptual Python bot for Coinbase Advanced Trade, showcasing secure API calls, Docker, and logging. Built with *sláinte*!
-- **TMNT Platformer**: 2D game in Pixel Game Maker MV, applying systems design for creative IT solutions, inspired by Lowell’s gamers (*sousdey*).
+- **Platformer**: 2D game in Pixel Game Maker MV in very early works, applying systems design for creative IT solutions, inspired by Lowell’s gamers (*sousdey*).
 - **RHEL Server Admin**: Configuring RHEL 9 on Proxmox for MariaDB and automation, prepping for enterprise-grade tasks (*síu sām*).
 
 ## Community & Education
