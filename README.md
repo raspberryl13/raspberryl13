@@ -1,5 +1,5 @@
 ## Matt / raspberryl13
-Lowell, MA | raspberryl13.github@neelix.aleeas.com | github.com/raspberryl13 | linkedin.com/in/matthew-a-drew
+Lowell, MA | [Email](mailto:+raspberryl13@users.noreply.github.com) | [github.com/raspberryl13](https://github.com/raspberryl13) | [linkedin.com/in/matthew-a-drew](https://linkedin.com/in/matthew-a-drew)
 
 👋 U.S. Army veteran and IT pro passionate about retro games, sci-fi, and coding. I’m learning Python, C++, and SQL, building secure systems with Lowell pride—*sláinte* (Irish), *sousdey* (Khmer), *síu sām* (Cantonese). Open to cool collabs!
 
