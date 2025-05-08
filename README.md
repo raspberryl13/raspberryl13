@@ -20,7 +20,7 @@ Fun fact: My son’s my biggest inspiration—couldn’t ask for a better wingma
 ## Community & Education
 - Passionate about using technology to improve my community.
 
-*Sláinte* to Lowell’s Irish, Khmer, and Cantonese heart—reach me at raspberryl13.github@neelix.aleeas.com for collabs!
+*Sláinte* to Lowell’s Irish, Khmer, and Cantonese heart—reach me at my [email](mailto:raspberryl13.github@neelix.aleeas.com) for collabs!
 
 <!---
 raspberryl13/raspberryl13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
