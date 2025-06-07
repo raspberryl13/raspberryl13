@@ -19,6 +19,14 @@ Fun fact: My son’s my biggest inspiration—couldn’t ask for a better wingma
 - **SQL Baseball Statistics Database** (2025): Designed an SQL database for a baseball league, optimizing tables and queries to improve retrieval efficiency by 30%.
 - **Platformer Game** (In Progress): Early-stage 2D game in Pixel Game Maker MV, applying systems design for creative IT solutions, inspired by Lowell’s gaming community.
 
+## Scripts
+- **Samba Share Setup**: Automates SMB shares for Debian/Ubuntu.
+- **Fib-ception**: Recursion, but probably the worst way. Python writes C++ code and compiles it, that code does the calculation, etc.
+- **Hello COBOL**: Automates GnuCOBOL, with procedural and OOP versions.
+- **Windows Software Installer GUI**: Python GUI app automating Windows software installs via Chocolatey and Tkinter, compiled as a standalone `.exe`.
+  ```bash
+  python3 scripts/install-gui/install_gui.py
+
 ## Community & Education
 - **Education**:
   - MS, Computer Science (Expected Dec 2025, GPA: 3.8) – Merrimack College
