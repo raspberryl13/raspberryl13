@@ -34,7 +34,7 @@ Fun fact: My son’s my biggest inspiration—couldn’t ask for a better wingma
 - **Certifications**: Google IT Support (2025), Google IT Automation with Python (2025), COBOL Programming with VSCode (2025).
 - **Community**: Passionate about leveraging tech to uplift Lowell’s diverse Irish, Khmer, and Cantonese communities.
 
-*Sláinte* to coding and collaboration—reach me at [raspberryl13.github@neelix.aleeas.com](mailto:raspberryl13.github@neelix.aleeas.com) for projects or chats!
+*Sláinte* to coding and collaboration—reach me at [email](mailto:raspberryl13.github@neelix.aleeas.com) for projects or chats!
 
 <!---
 raspberryl13/raspberryl13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
