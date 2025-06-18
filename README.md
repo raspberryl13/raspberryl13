@@ -1,7 +1,7 @@
 ## Matt / raspberryl13
 Lowell, MA | [Email](mailto:raspberryl13.github@neelix.aleeas.com) | [github](https://github.com/raspberryl13) | [LinkedIn](https://linkedin.com/in/matthew-a-drew)
 
-👋 U.S. Army veteran and IT pro passionate about retro games, sci-fi, and building secure, efficient systems. I’m sharpening skills in Python, SQL, SharePoint, and Microsoft 365, driven by Lowell’s vibrant community. Open to exciting collabs in IT support and software development!
+👋 U.S. Army veteran and IT pro passionate about retro games, sci-fi, and building secure, efficient systems. I’m sharpening skills in Python, SQL, Java, COBOL, and C++. Open to exciting collabs in IT support and software development!
 
 ## About Me
 IT professional with a BS in Information Technology (UMass Lowell, 2010) and near-complete MS in Computer Science (Merrimack College, expected Dec 2025). I design automated, secure solutions for Windows/Linux environments, with a focus on user support and system reliability. My military background fuels my attention to detail and problem-solving. Skilled in:
