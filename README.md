@@ -24,9 +24,8 @@ Fun fact: My son’s my biggest inspiration—couldn’t ask for a better wingma
 - **Fib-ception**: Recursion, but probably the worst way. Python writes C++ code and compiles it, that code does the calculation, etc.
 - **Hello COBOL**: Automates GnuCOBOL, with procedural and OOP versions.
 - **Windows Software Installer GUI**: Python GUI app automating Windows software installs via Chocolatey and Tkinter, compiled as a standalone `.exe`.
-  ```bash
-  python3 scripts/install-gui/install_gui.py
-
+- **Update Tools**: a system-updater.py script that updates Debain, Ubuntu, Manjario, and Arch Linux main packages, flatpaks and snap packages.
+  
 ## Community & Education
 - **Education**:
   - MS, Computer Science (Expected Dec 2025, GPA: 3.8) – Merrimack College
